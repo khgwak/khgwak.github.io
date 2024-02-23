@@ -15,7 +15,7 @@ I'm also highly interested in philosophy, especially metaphysics and philosophy 
 Email: khgwak@unist.ac.kr / khgwak03@gmail.com
 
 More about me!       
-Blog: https://kh5994.github.io/       
+Blog: https://khgwak.github.io/about/  
 LinkedIn: https://linkedin.com/in/kyeonghwan-gwak-7918102b6
 
 
