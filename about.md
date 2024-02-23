@@ -3,27 +3,24 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+- 👋 Hi, I'm Kyeonghwan Gwak(곽경환) 🤗       
+I'm currently an undergraduate student at Ulsan National Institute of Science and Technology(UNIST), double majoring in Computer Science and Engineering(CSE) and Mathematical Sciences.       
+And I'm an undergraduate intern in UNIST Vision & Learning LAB(UVLL) at UNIST led by Prof. Seungryul Baek.       
+Also, I've been selected as the candidate for Research Officer for National Defense(ROND) in the field of EECS.       
+I'm also highly interested in philosophy, especially metaphysics and philosophy of science.       
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+- 👀 My main interest is computer vision, especially the 3D human pose estimation.
 
-There are currently two themes built on Poole:
+- 📫 How to reach me:       
+Email: khgwak@unist.ac.kr / khgwak03@gmail.com
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+More about me!       
+Blog: https://kh5994.github.io/       
+LinkedIn: https://linkedin.com/in/kyeonghwan-gwak-7918102b6
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<!---
+khgwak/khgwak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
