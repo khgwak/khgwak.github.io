@@ -12,11 +12,11 @@ I'm also highly interested in philosophy, especially metaphysics and philosophy 
 - 👀 My main interest is computer vision, especially the 3D human pose estimation.
 
 - 📫 How to reach me:       
-Email: khgwak@unist.ac.kr / khgwak03@gmail.com
+Email: <khgwak@unist.ac.kr> / <khgwak03@gmail.com>
 
 More about me!       
-Blog: https://khgwak.github.io/about/  
-LinkedIn: https://www.linkedin.com/in/khgwak/
+Blog: [https://khgwak.github.io/about/](https://khgwak.github.io/about/)   
+LinkedIn: [https://www.linkedin.com/in/khgwak/](https://www.linkedin.com/in/khgwak/)
 
 
 
