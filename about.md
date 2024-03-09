@@ -13,7 +13,7 @@ I have a keen interest in philosophy, particularly metaphysics and the philosoph
 Email: <khgwak@unist.ac.kr> / <khgwak03@gmail.com>  
 
 More about me!  
-Blog: <a href="https://khgwak.github.io/about/" target="_blank" rel="noopener noreferrer">https://khgwak.github.io/about/</a>  
+Blog: <a href="https://khgwak.github.io/" target="_blank" rel="noopener noreferrer">https://khgwak.github.io/</a>  
 LinkedIn: <a href="https://www.linkedin.com/in/khgwak/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/khgwak/</a>  
 
 
