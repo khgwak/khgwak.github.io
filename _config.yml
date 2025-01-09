@@ -1,7 +1,7 @@
 # Setup
 title:               Kyeonghwan Gwak
 tagline:             '곽경환'
-description:         'An undergraduate student at UNIST'
+description:         'Undergraduate Student, UNIST'
 url:                 https://khgwak.github.io
 baseurl:             ''
 paginate:            5
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Kyeonghwan Gwak
-  url:               https://www.linkedin.com/in/kyeonghwan-gwak-7918102b6/
+  url:               https://www.linkedin.com/in/khgwak
   email:             khgwak@unist.ac.kr
 
 # Gems
@@ -18,5 +18,5 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+version:             1.0
+google_analytics_id: G-9ELZESYGRT
