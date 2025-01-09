@@ -436,6 +436,18 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
 
+/* UNIST Navy */
+.theme-base-03 .sidebar,
+.theme-base-03 .sidebar-toggle:active,
+.theme-base-03 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #001E62;
+}
+.theme-base-03 .container a,
+.theme-base-03 .sidebar-toggle,
+.theme-base-03 .related-posts li a:hover {
+  color: #001E62;
+}
+
 /* Red */
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
