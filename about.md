@@ -14,10 +14,3 @@ Email: <khgwak@unist.ac.kr> / <khgwak03@gmail.com>
 More about me!  
 GitHub: <a href="https://github.com/khgwak" target="_blank" rel="noopener noreferrer">https://github.com/khgwak</a>  
 LinkedIn: <a href="https://www.linkedin.com/in/khgwak" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/khgwak</a>  
-
-
-
-<!---
-khgwak/khgwak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
