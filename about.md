@@ -12,5 +12,6 @@ I am an undergraduate student at the Ulsan National Institute of Science and Tec
 Email: <khgwak@unist.ac.kr> / <khgwak03@gmail.com>  
 
 More about me!  
+Google Scholar: <a href="https://scholar.google.com/citations?user=9RZSPDkAAAAJ" target="_blank" rel="noopener noreferrer">https://scholar.google.com/citations?user=9RZSPDkAAAAJ</a>  
 GitHub: <a href="https://github.com/khgwak" target="_blank" rel="noopener noreferrer">https://github.com/khgwak</a>  
 LinkedIn: <a href="https://www.linkedin.com/in/khgwak" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/khgwak</a>  
