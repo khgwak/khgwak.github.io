@@ -3,7 +3,7 @@ layout: post
 title: "Graduation from UNIST"
 ---
 
-<div align="center" style="position: relative; max-width: 60%; margin: auto;">
+<div align="center" style="position: relative; max-width: 80%; margin: auto;">
   <img id="grad-img" src="https://github.com/khgwak/khgwak.github.io/blob/master/_posts/assets/images/Graduation_1.jpg?raw=true" alt="Graduation Photo" style="width: 100%; border-radius: 8px;">
   
   <button onclick="changeImg(-1)" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; cursor: pointer; border-radius: 5px; font-size: 18px;">&#10094;</button>
