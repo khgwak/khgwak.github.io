@@ -3,11 +3,12 @@ layout: post
 title: "Graduation from UNIST"
 ---
 
-<div align="center" style="position: relative; max-width: 80%; margin: auto;">
-  <img id="grad-img" src="https://github.com/khgwak/khgwak.github.io/blob/master/_posts/assets/images/Graduation_1.jpg?raw=true" alt="Graduation Photo" style="width: 100%; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin: auto;">
+  <button onclick="changeImg(-1)" style="flex-shrink: 0; background: #f8f9fa; color: #333; border: 1px solid #ddd; padding: 10px 15px; cursor: pointer; border-radius: 50%; font-size: 18px; width: 45px; height: 45px; display: flex; justify-content: center; align-items: center; transition: background 0.2s;" onmouseover="this.style.background='#e2e6ea'" onmouseout="this.style.background='#f8f9fa'">&#10094;</button>
   
-  <button onclick="changeImg(-1)" style="position: absolute; top: 50%; left: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; cursor: pointer; border-radius: 5px; font-size: 18px;">&#10094;</button>
-  <button onclick="changeImg(1)" style="position: absolute; top: 50%; right: 10px; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; padding: 10px 15px; cursor: pointer; border-radius: 5px; font-size: 18px;">&#10095;</button>
+  <img id="grad-img" src="https://github.com/khgwak/khgwak.github.io/blob/master/_posts/assets/images/Graduation_1.jpg?raw=true" alt="Graduation Photo" style="max-width: 80%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  
+  <button onclick="changeImg(1)" style="flex-shrink: 0; background: #f8f9fa; color: #333; border: 1px solid #ddd; padding: 10px 15px; cursor: pointer; border-radius: 50%; font-size: 18px; width: 45px; height: 45px; display: flex; justify-content: center; align-items: center; transition: background 0.2s;" onmouseover="this.style.background='#e2e6ea'" onmouseout="this.style.background='#f8f9fa'">&#10095;</button>
 </div>
 
 <script>

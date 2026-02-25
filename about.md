@@ -39,7 +39,7 @@ title: About
 </style>
 
 - 👋 Hi, I'm Kyeonghwan Gwak 🤗  
-I received my B.S. degree in Computer Science and Engineering with a minor in Mathematical Sciences from <a href="https://www.unist.ac.kr" target="_blank" rel="noopener noreferrer">Ulsan National Institute of Science and Technology (UNIST)</a>, graduating with **Summa Cum Laude** and the **Deputy Prime Minister and Minister of Science and ICT Award**. During my time there, I was a member of the <a href="https://vision.unist.ac.kr" target="_blank" rel="noopener noreferrer">UNIST Vision and Learning Laboratory</a>, supervised by <a href="https://sites.google.com/site/bsrvision00" target="_blank" rel="noopener noreferrer">Prof. Seungryul Baek</a>.
+I received my B.S. degree in Computer Science and Engineering with a minor in Mathematical Sciences from <a href="https://www.unist.ac.kr" target="_blank" rel="noopener noreferrer">Ulsan National Institute of Science and Technology (UNIST)</a>, graduating with **Summa Cum Laude** and the **Deputy Prime Minister and Minister of Science and ICT Award**. During my time there, I was a member of the <a href="https://vision.unist.ac.kr" target="_blank" rel="noopener noreferrer">UNIST Vision and Learning Laboratory</a>, advised by <a href="https://sites.google.com/site/bsrvision00" target="_blank" rel="noopener noreferrer">Prof. Seungryul Baek</a>.
   
 - 📫 How to reach me!  
 Email: <khgwak@unist.ac.kr> / <khgwak03@gmail.com>  
@@ -75,8 +75,8 @@ Jeongwan On, <u>Kyeonghwan Gwak</u>, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, 
 
 ### 🏅 Honors and Awards
 - **Deputy Prime Minister and Minister of Science and ICT Award**, UNIST Outstanding Graduate Award, 2026.02
-- **2nd Prize**, UNIST Artificial Intelligence Challengers Program (AICP), 2024.12
-- **1st Place**, the 8th HANDS Workshop Challenge - ARCTIC Track, 2024.09
+- **2nd prize at the UNIST Artificial Intelligence Challengers Program (AICP) 2024**, 2024.12
+- **1st place at the 8th HANDS workshop challenge - ARCTIC track held in ECCV 2024**, 2024.09
 - **National Excellence Scholarship (STEM)**, Ministry of Science and ICT, 2024 -- 2025
 - **Academic Excellence Scholarship**, UNIST, 2022 -- 2025
 </div>
