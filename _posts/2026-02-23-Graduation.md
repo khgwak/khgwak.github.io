@@ -14,7 +14,8 @@ title: "Graduation from UNIST"
 <script>
   const imgs = [
     "https://github.com/khgwak/khgwak.github.io/blob/master/_posts/assets/images/Graduation_1.jpg?raw=true",
-    "https://github.com/khgwak/khgwak.github.io/blob/master/_posts/assets/images/Graduation_2.jpg?raw=true"
+    "https://github.com/khgwak/khgwak.github.io/blob/master/_posts/assets/images/Graduation_2.jpg?raw=true",
+    "https://github.com/khgwak/khgwak.github.io/blob/master/_posts/assets/images/Graduation_3.jpg?raw=true"
   ];
   let currIdx = 0;
   function changeImg(dir) {
