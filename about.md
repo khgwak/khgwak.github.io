@@ -75,8 +75,9 @@ Jeongwan On, <u>Kyeonghwan Gwak</u>, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, 
 
 ### 🏅 Honors and Awards
 - **Deputy Prime Minister and Minister of Science and ICT Award**, UNIST Outstanding Graduate Award, 2026.02
-- **2nd prize at the UNIST Artificial Intelligence Challengers Program (AICP) 2024**, 2024.12
-- **1st place at the 8th HANDS workshop challenge - ARCTIC track held in ECCV 2024**, 2024.09
+- **Summa Cum Laude**, UNIST, 2026.02
+- **2nd prize** at the UNIST Artificial Intelligence Challengers Program (AICP) 2024, 2024.12
+- **1st place** at the 8th HANDS workshop challenge - ARCTIC track held in ECCV 2024, 2024.09
 - **National Excellence Scholarship (STEM)**, Ministry of Science and ICT, 2024 -- 2025
 - **Academic Excellence Scholarship**, UNIST, 2022 -- 2025
 </div>
