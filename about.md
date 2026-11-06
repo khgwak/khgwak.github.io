@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+permalink: /
+redirect_from: /about/
 ---
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -27,6 +29,13 @@ title: About
   .cv-content-professional strong {
     font-weight: 600;
   }
+  #publications + p + ul > li,
+  #honors-and-awards + ul > li {
+    margin-bottom: 10px;
+  }
+  #research-experience + ul ul > li + li {
+    margin-top: 10px;
+  }
   .container {
     max-width: 47rem;
   }
@@ -39,7 +48,7 @@ title: About
 </style>
 
 - 👋 Hi, I'm Kyeonghwan Gwak 🤗  
-I am currently a Research Officer at the <a href="https://www.add.re.kr/eps" target="_blank" rel="noopener noreferrer">Agency for Defense Development (ADD)</a>, the South Korean counterpart to the U.S. DARPA. Concurrently, I serve as a Second Lieutenant in the <a href="https://www.airforce.mil.kr/user/indexMain.action?command=&siteId=airforce-eng" target="_blank" rel="noopener noreferrer">Republic of Korea Air Force (ROKAF)</a>, commissioned through the <a href="https://www.rond.or.kr" target="_blank" rel="noopener noreferrer">Research Officers for National Defense (ROND)</a> program.
+I am currently a Research Officer at the <a href="https://www.add.re.kr/eps" target="_blank" rel="noopener noreferrer">Agency for Defense Development (ADD)</a>, South Korea's national agency for defense R&D. Concurrently, I serve as a Second Lieutenant in the <a href="https://www.airforce.mil.kr/user/indexMain.action?command=&siteId=airforce-eng" target="_blank" rel="noopener noreferrer">Republic of Korea Air Force (ROKAF)</a>, commissioned through the <a href="https://www.rond.or.kr" target="_blank" rel="noopener noreferrer">Research Officers for National Defense (ROND)</a> program.
 
   I received my B.S. degree in Computer Science and Engineering with a minor in Mathematical Sciences from <a href="https://www.unist.ac.kr" target="_blank" rel="noopener noreferrer">Ulsan National Institute of Science and Technology (UNIST)</a>, graduating with **Summa Cum Laude** and the **Deputy Prime Minister and Minister of Science and ICT Award**. During my time there, I was a member of the <a href="https://vision.unist.ac.kr" target="_blank" rel="noopener noreferrer">UNIST Vision and Learning Laboratory</a>, advised by <a href="https://sites.google.com/site/bsrvision00" target="_blank" rel="noopener noreferrer">Prof. Seungryul Baek</a>.
   
@@ -58,22 +67,34 @@ More about me!
   - B.S. in Computer Science and Engineering, Minor in Mathematical Sciences  
   *<a href="https://khgwak.github.io/GradeViz" target="_blank" rel="noopener noreferrer">Summa Cum Laude</a>*, *Deputy Prime Minister and Minister of Science and ICT Award*
 
-### 🔬 Research Experience
+### 💼 Research Experience
+- **Agency for Defense Development (ADD)**, 2026.06 -- Present  
+  *Research Officer for National Defense*
+  - Evaluating Agentic Mathematical Discovery Loops (NeurIPS 2026 Workshop)
 - **UNIST Vision and Learning Laboratory**, 2024.01 -- 2026.02  
   *Undergraduate Research Assistant*, Advisor: Prof. Seungryul Baek
   - Bimanual Category-agnostic Hand-Object Interaction Reconstruction (CVPR 2025, ECCV 2024 Workshop)
   - Iterative Classification-based Hand Pose Refinement (IPIU 2026)
+  - Single-image Feed-forward Gaussian Hand Avatar Reconstruction (NeurIPS 2026)
 
-### 📝 Publications
-- **<a href="https://cvpr.thecvf.com/virtual/2025/poster/34060" target="_blank" rel="noopener noreferrer">BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting</a>**  
-Jeongwan On, <u>Kyeonghwan Gwak</u>, Gunyoung Kang, Junuk   Cha, Soohyun Hwang, Hyein Hwang, Seungryul Baek  
-  *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025*
-- **<a href="https://hands-workshop.org/files/2024/UVHANDS.pdf" target="_blank" rel="noopener noreferrer">[Technical Report] 1st Place Solution to the 8th HANDS Workshop Challenge - ARCTIC Track</a>**  
-Jeongwan On, <u>Kyeonghwan Gwak</u>, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, Junuk Cha, Jaewook Han, Seungryul Baek  
-  *The 8th Workshop on Observing and Understanding Hands in conjunction with ECCV 2024*
-- **3D Hand Pose Refinement via Iterative Classification**  
+### 📑 Publications
+<small>[C] Conference &nbsp; [W] Workshop &nbsp; [D] Domestic Conference (South Korea) &nbsp; [T] Technical Report</small>
+
+- **[C2] <a href="https://coolho1129.github.io/InstantHand-page/" target="_blank" rel="noopener noreferrer">InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image</a>**  
+Chanho Kim, Muhammad Salman Ali, <u>Kyeonghwan Gwak</u>, Muhammad Shaheryar, Incheol Park, Jeongwan On, Seungryul Baek  
+  *The 40th Annual Conference on Neural Information Processing Systems (NeurIPS) 2026*
+- **[W1] <a href="https://openreview.net/forum?id=HtUTpiDT3k" target="_blank" rel="noopener noreferrer">MathLoopBench: Evaluating Agentic Mathematical Discovery Loops</a>**  
+<u>Kyeonghwan Gwak</u>  
+  *The 6th Workshop on Mathematical Reasoning and AI (NeurIPS Workshop MATH-AI) 2026*
+- **[D1] <a style="text-decoration: none;">3D Hand Pose Refinement via Iterative Classification</a>**  
 <u>Kyeonghwan Gwak</u>, Seungryul Baek  
   *The 38th Workshop on Image Processing and Image Understanding (IPIU) 2026*
+- **[C1] <a href="https://cvpr.thecvf.com/virtual/2025/poster/34060" target="_blank" rel="noopener noreferrer">BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting</a>**  
+Jeongwan On, <u>Kyeonghwan Gwak</u>, Gunyoung Kang, Junuk   Cha, Soohyun Hwang, Hyein Hwang, Seungryul Baek  
+  *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025*
+- **[T1] <a href="https://hands-workshop.org/files/2024/UVHANDS.pdf" target="_blank" rel="noopener noreferrer">1st Place Solution to the 8th HANDS Workshop Challenge - ARCTIC Track</a>**  
+Jeongwan On, <u>Kyeonghwan Gwak</u>, Gunyoung Kang, Hyein Hwang, Soohyun Hwang, Junuk Cha, Jaewook Han, Seungryul Baek  
+  *The 8th Workshop on Observing and Understanding Hands in Action (ECCV Workshop HANDS) 2024*
 
 ### 🏅 Honors and Awards
 - **Deputy Prime Minister and Minister of Science and ICT Award**, UNIST Outstanding Graduate Award, 2026.02

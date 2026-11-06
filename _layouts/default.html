@@ -3,29 +3,31 @@
 
   {% include head.html %}
 
-  <body class="theme-base-0d layout-reverse sidebar-overlay">
+  <body class="theme-base-0d">
 
-    {% include sidebar.html %}
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
     <div class="wrap">
       <div class="masthead">
-        <div class="container">
+        <div class="container masthead-inner">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="News">{{ site.title }}</a>
+            <a href="{{ site.baseurl }}/" title="About">{{ site.title }}</a>
             <small>{{ site.tagline }}</small>
           </h3>
+          <nav class="masthead-nav">
+            <a{% if page.title == 'About' %} class="active"{% endif %} href="{{ '/' | absolute_url }}">About</a>
+            <a{% if page.title == 'News' %} class="active"{% endif %} href="{{ '/news/' | absolute_url }}">News</a>
+          </nav>
         </div>
       </div>
 
       <div class="container content">
         {{ content }}
       </div>
+
+      <footer class="container site-footer">
+        <div class="site-footer-text">
+          Copyright &copy; {{ site.time | date: '%Y' }}, {{ site.author.name }}. All rights reserved.
+        </div>
+      </footer>
     </div>
-
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-    <script src='{{ site.baseurl }}/public/js/script.js'></script>
   </body>
 </html>

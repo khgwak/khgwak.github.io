@@ -113,9 +113,44 @@ h1, h2, h3, h4, h5, h6 {
   color: #c0c0c0;
   letter-spacing: 0;
 }
+.container.masthead-inner,
+.container.site-footer {
+  max-width: 47rem;
+}
+.site-footer {
+  margin-top: 3rem;
+  padding-bottom: 2rem;
+}
+.site-footer-text {
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  font-size: 80%;
+  text-align: center;
+  color: #909090;
+}
+.masthead-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+}
+.theme-base-0d .container .masthead-nav a {
+  margin-left: 1rem;
+  color: #333;
+}
+.theme-base-0d .container .masthead-nav a:first-child {
+  margin-left: 0;
+}
+.masthead-nav a.active {
+  font-weight: 700;
+}
 
 @media (max-width: 48em) {
+  .masthead-inner {
+    justify-content: center;
+  }
   .masthead-title {
+    width: 100%;
     text-align: center;
   }
   .masthead-title small {
